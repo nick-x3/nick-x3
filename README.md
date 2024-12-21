@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nick :3
+- 👀 I’m interested in learning to code
+- 🌱 I’m currently learning how to make games with python
+- 😄 Using this page as a portfolio
+- ⚡ Fun fact: not a furry
